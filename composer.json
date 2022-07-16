@@ -1,0 +1,15 @@
+{
+    "name": "nupo/ireportit",
+    "autoload": {
+        "psr-4": {
+            "Nupo\\Ireportit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "myreedbricks",
+            "email": "reedbricks@gmail.com"
+        }
+    ],
+    "require": {}
+}
